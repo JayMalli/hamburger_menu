@@ -1,0 +1,16 @@
+{
+  "name": "hamburger_menu",
+  "version": "1.0.0",
+  "description": "<img width=\"100%\" src=\"dist\\assets\\hamburger.gif\">",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://JayMalli.github.io/hamburger_menu",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
